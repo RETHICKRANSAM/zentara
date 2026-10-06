@@ -1,0 +1,23 @@
+{
+  "name": "ZenTara",
+  "short_name": "ZenTara",
+  "description": "Master your carrier contracts with AI-driven clarity.",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#FF6B6B",
+  "background_color": "#1E1E2E",
+  "icons": [
+    {
+      "src": "/static/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/static/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
